@@ -1,0 +1,22 @@
+{
+  "tonos": {
+    "general": "informal",
+    "plataformas": {
+      "Instagram": "visual, estético, carruseles o reels",
+      "TikTok": "formato video corto, informal y trendy",
+      "LinkedIn": "profesional, institucional y educativo",
+      "Facebook": "tono intermedio, valor informativo y emocional",
+      "Youtube": " tono intermedio, valor informativo y emocional",
+      "Spotify": " tono intermedio, valor informativo y emocional"
+    }
+  },
+  "palabras_clave": ["innovación", "tecnología", "liderazgo"],
+  "colores": {
+    "primarios": ["#0A1F44", "#C0C0C0","#FFFFFF","#BC9880","#4691D3"]
+  },
+  "tipografia": {
+    "primarios": ["Roboto", "Montserrat"],
+    "secundarios": ["Lato", "Playfair Display "]
+  },
+  "emojis": ["🔥", "💻", "🚀"]
+}
