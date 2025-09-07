@@ -1,17 +1,29 @@
-from Load_Data import cargar_guia_de_marca
-from generate_content import generar_contenido_y_calendario
+from Calendario import generar_calendario, asignar_publicaciones_por_clase
+from export import exportar_excel
 
 def main():
-    # Cargar los datos de la guía de marca
-    guia_marca = cargar_guia_de_marca()
+    # Fechas de inicio y fin
+    fecha_inicio = "2025-09-01"
+    fecha_fin = "2025-11-30"
+    
+    # Definir redes sociales y clases
+    redes_sociales = ["Instagram", "TikTok", "LinkedIn", "Facebook", "YouTube"]
+    clases = ["promocional", "informativo", "comunidad"]
 
-    # Generar contenido para cada red social y crear el calendario
-    calendario_publicaciones = generar_contenido_y_calendario(guia_marca)
+    # Crear el calendario
+    calendario = generar_calendario(redes_sociales, clases, fecha_inicio, fecha_fin)
 
-    # Mostrar las publicaciones y el calendario
-    print("Calendario de Publicaciones con contenido:")
-    for publicacion in calendario_publicaciones:
-        print(publicacion)
+    # Asignar publicaciones a cada clase de cada red social
+    for red_social in redes_sociales:
+        for clase in clases:
+            calendario[red_social][clase] = asignar_publicaciones_por_clase(
+                fecha_inicio, fecha_fin, 7, red_social, clase
+            )
+
+    # Exportar el calendario a Excel
+    exportar_excel(calendario)
+
+    print("Calendario generado y exportado con éxito.")
 
 if __name__ == "__main__":
     main()
