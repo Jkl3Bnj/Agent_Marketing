@@ -6,7 +6,7 @@ import json
 
 cargar_guia_de_marca()
 calendario = {}
-from datetime import timedelta
+
 def generar_calendario(redes_sociales, clases, fecha_inicio, fecha_fin, frecuencia, guia_marca):
     if fecha_inicio > fecha_fin:
         raise ValueError("La fecha de inicio no puede ser posterior a la fecha de fin.")
@@ -54,5 +54,3 @@ def generar_calendario(redes_sociales, clases, fecha_inicio, fecha_fin, frecuenc
 
             # Avanzar la fecha según la frecuencia
             fecha_inicio += timedelta(days=frecuencia)
-
-    return calendario

@@ -130,3 +130,5 @@ tabla.pack(pady=20)
 
 # Ejecutar la interfaz
 root.mainloop()
+
+

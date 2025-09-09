@@ -10,11 +10,14 @@ def exportar_excel(calendario):
                     "Red Social": red_social,
                     "Clase": clase,
                     "Fecha": pub["fecha"],
+                    "Tema": pub["tema"],
+                    "Copy": pub["copy"],
                     "Hashtags": pub["hashtags"]
                 })
+
     df = pd.DataFrame(data)
     df.to_excel("calendario_por_clase.xlsx", index=False)
 
 def exportar_json(calendario):
-    with open("calendario.json", "w", encoding="utf-8") as file:
-        json.dump(calendario, file, indent=4, ensure_ascii=False)
+    with open("calendario.json", "w") as file:
+        json.dump(calendario, file, indent=4)
