@@ -54,3 +54,4 @@ def generar_calendario(redes_sociales, clases, fecha_inicio, fecha_fin, frecuenc
 
             # Avanzar la fecha según la frecuencia
             fecha_inicio += timedelta(days=frecuencia)
+    return calendario

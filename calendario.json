@@ -2,7 +2,7 @@
     "Instagram": {
         "informal": [
             {
-                "fecha": "03-02-2025",
+                "fecha": "09-09-2025",
                 "red_social": "Instagram",
                 "clase": "informal",
                 "tema": "Post para Instagram sobre informal",
@@ -10,47 +10,7 @@
                 "hashtags": "#Hashtags"
             },
             {
-                "fecha": "18-02-2025",
-                "red_social": "Instagram",
-                "clase": "informal",
-                "tema": "Post para Instagram sobre informal",
-                "copy": "Informal contenido sobre informal. clave1 Â¡SÃ­guenos para mÃ¡s!",
-                "hashtags": "#Hashtags"
-            },
-            {
-                "fecha": "05-03-2025",
-                "red_social": "Instagram",
-                "clase": "informal",
-                "tema": "Post para Instagram sobre informal",
-                "copy": "Informal contenido sobre informal. clave1 Â¡SÃ­guenos para mÃ¡s!",
-                "hashtags": "#Hashtags"
-            },
-            {
-                "fecha": "20-03-2025",
-                "red_social": "Instagram",
-                "clase": "informal",
-                "tema": "Post para Instagram sobre informal",
-                "copy": "Informal contenido sobre informal. clave1 Â¡SÃ­guenos para mÃ¡s!",
-                "hashtags": "#Hashtags"
-            },
-            {
-                "fecha": "04-04-2025",
-                "red_social": "Instagram",
-                "clase": "informal",
-                "tema": "Post para Instagram sobre informal",
-                "copy": "Informal contenido sobre informal. clave1 Â¡SÃ­guenos para mÃ¡s!",
-                "hashtags": "#Hashtags"
-            },
-            {
-                "fecha": "19-04-2025",
-                "red_social": "Instagram",
-                "clase": "informal",
-                "tema": "Post para Instagram sobre informal",
-                "copy": "Informal contenido sobre informal. clave1 Â¡SÃ­guenos para mÃ¡s!",
-                "hashtags": "#Hashtags"
-            },
-            {
-                "fecha": "04-05-2025",
+                "fecha": "11-09-2025",
                 "red_social": "Instagram",
                 "clase": "informal",
                 "tema": "Post para Instagram sobre informal",
@@ -64,7 +24,7 @@
     "TikTok": {
         "informal": [
             {
-                "fecha": "03-02-2025",
+                "fecha": "09-09-2025",
                 "red_social": "TikTok",
                 "clase": "informal",
                 "tema": "Post para TikTok sobre informal",
@@ -72,47 +32,7 @@
                 "hashtags": "#Hashtags"
             },
             {
-                "fecha": "18-02-2025",
-                "red_social": "TikTok",
-                "clase": "informal",
-                "tema": "Post para TikTok sobre informal",
-                "copy": "Informal contenido sobre informal. clave2 Â¡Dale like y comparte!",
-                "hashtags": "#Hashtags"
-            },
-            {
-                "fecha": "05-03-2025",
-                "red_social": "TikTok",
-                "clase": "informal",
-                "tema": "Post para TikTok sobre informal",
-                "copy": "Informal contenido sobre informal. clave2 Â¡Dale like y comparte!",
-                "hashtags": "#Hashtags"
-            },
-            {
-                "fecha": "20-03-2025",
-                "red_social": "TikTok",
-                "clase": "informal",
-                "tema": "Post para TikTok sobre informal",
-                "copy": "Informal contenido sobre informal. clave2 Â¡Dale like y comparte!",
-                "hashtags": "#Hashtags"
-            },
-            {
-                "fecha": "04-04-2025",
-                "red_social": "TikTok",
-                "clase": "informal",
-                "tema": "Post para TikTok sobre informal",
-                "copy": "Informal contenido sobre informal. clave2 Â¡Dale like y comparte!",
-                "hashtags": "#Hashtags"
-            },
-            {
-                "fecha": "19-04-2025",
-                "red_social": "TikTok",
-                "clase": "informal",
-                "tema": "Post para TikTok sobre informal",
-                "copy": "Informal contenido sobre informal. clave2 Â¡Dale like y comparte!",
-                "hashtags": "#Hashtags"
-            },
-            {
-                "fecha": "04-05-2025",
+                "fecha": "11-09-2025",
                 "red_social": "TikTok",
                 "clase": "informal",
                 "tema": "Post para TikTok sobre informal",
@@ -128,7 +48,7 @@
         "intermedio": [],
         "profesional": [
             {
-                "fecha": "03-02-2025",
+                "fecha": "09-09-2025",
                 "red_social": "LinkedIn",
                 "clase": "profesional",
                 "tema": "Post para LinkedIn sobre profesional",
@@ -136,47 +56,7 @@
                 "hashtags": "#Hashtags"
             },
             {
-                "fecha": "18-02-2025",
-                "red_social": "LinkedIn",
-                "clase": "profesional",
-                "tema": "Post para LinkedIn sobre profesional",
-                "copy": "Profesional contenido sobre profesional. clave3 ConÃ©ctate con nosotros",
-                "hashtags": "#Hashtags"
-            },
-            {
-                "fecha": "05-03-2025",
-                "red_social": "LinkedIn",
-                "clase": "profesional",
-                "tema": "Post para LinkedIn sobre profesional",
-                "copy": "Profesional contenido sobre profesional. clave3 ConÃ©ctate con nosotros",
-                "hashtags": "#Hashtags"
-            },
-            {
-                "fecha": "20-03-2025",
-                "red_social": "LinkedIn",
-                "clase": "profesional",
-                "tema": "Post para LinkedIn sobre profesional",
-                "copy": "Profesional contenido sobre profesional. clave3 ConÃ©ctate con nosotros",
-                "hashtags": "#Hashtags"
-            },
-            {
-                "fecha": "04-04-2025",
-                "red_social": "LinkedIn",
-                "clase": "profesional",
-                "tema": "Post para LinkedIn sobre profesional",
-                "copy": "Profesional contenido sobre profesional. clave3 ConÃ©ctate con nosotros",
-                "hashtags": "#Hashtags"
-            },
-            {
-                "fecha": "19-04-2025",
-                "red_social": "LinkedIn",
-                "clase": "profesional",
-                "tema": "Post para LinkedIn sobre profesional",
-                "copy": "Profesional contenido sobre profesional. clave3 ConÃ©ctate con nosotros",
-                "hashtags": "#Hashtags"
-            },
-            {
-                "fecha": "04-05-2025",
+                "fecha": "11-09-2025",
                 "red_social": "LinkedIn",
                 "clase": "profesional",
                 "tema": "Post para LinkedIn sobre profesional",
@@ -189,7 +69,7 @@
         "informal": [],
         "intermedio": [
             {
-                "fecha": "03-02-2025",
+                "fecha": "09-09-2025",
                 "red_social": "Facebook",
                 "clase": "intermedio",
                 "tema": "Post para Facebook sobre intermedio",
@@ -197,47 +77,7 @@
                 "hashtags": "#Hashtags"
             },
             {
-                "fecha": "18-02-2025",
-                "red_social": "Facebook",
-                "clase": "intermedio",
-                "tema": "Post para Facebook sobre intermedio",
-                "copy": "Intermedio contenido sobre intermedio. clave4 Ãšnete a nuestra comunidad",
-                "hashtags": "#Hashtags"
-            },
-            {
-                "fecha": "05-03-2025",
-                "red_social": "Facebook",
-                "clase": "intermedio",
-                "tema": "Post para Facebook sobre intermedio",
-                "copy": "Intermedio contenido sobre intermedio. clave4 Ãšnete a nuestra comunidad",
-                "hashtags": "#Hashtags"
-            },
-            {
-                "fecha": "20-03-2025",
-                "red_social": "Facebook",
-                "clase": "intermedio",
-                "tema": "Post para Facebook sobre intermedio",
-                "copy": "Intermedio contenido sobre intermedio. clave4 Ãšnete a nuestra comunidad",
-                "hashtags": "#Hashtags"
-            },
-            {
-                "fecha": "04-04-2025",
-                "red_social": "Facebook",
-                "clase": "intermedio",
-                "tema": "Post para Facebook sobre intermedio",
-                "copy": "Intermedio contenido sobre intermedio. clave4 Ãšnete a nuestra comunidad",
-                "hashtags": "#Hashtags"
-            },
-            {
-                "fecha": "19-04-2025",
-                "red_social": "Facebook",
-                "clase": "intermedio",
-                "tema": "Post para Facebook sobre intermedio",
-                "copy": "Intermedio contenido sobre intermedio. clave4 Ãšnete a nuestra comunidad",
-                "hashtags": "#Hashtags"
-            },
-            {
-                "fecha": "04-05-2025",
+                "fecha": "11-09-2025",
                 "red_social": "Facebook",
                 "clase": "intermedio",
                 "tema": "Post para Facebook sobre intermedio",
@@ -250,7 +90,7 @@
     "YouTube": {
         "informal": [
             {
-                "fecha": "03-02-2025",
+                "fecha": "09-09-2025",
                 "red_social": "YouTube",
                 "clase": "informal",
                 "tema": "Post para YouTube sobre informal",
@@ -258,47 +98,7 @@
                 "hashtags": "#Hashtags"
             },
             {
-                "fecha": "18-02-2025",
-                "red_social": "YouTube",
-                "clase": "informal",
-                "tema": "Post para YouTube sobre informal",
-                "copy": "Informal contenido sobre informal. clave5 SuscrÃ­bete para mÃ¡s videos",
-                "hashtags": "#Hashtags"
-            },
-            {
-                "fecha": "05-03-2025",
-                "red_social": "YouTube",
-                "clase": "informal",
-                "tema": "Post para YouTube sobre informal",
-                "copy": "Informal contenido sobre informal. clave5 SuscrÃ­bete para mÃ¡s videos",
-                "hashtags": "#Hashtags"
-            },
-            {
-                "fecha": "20-03-2025",
-                "red_social": "YouTube",
-                "clase": "informal",
-                "tema": "Post para YouTube sobre informal",
-                "copy": "Informal contenido sobre informal. clave5 SuscrÃ­bete para mÃ¡s videos",
-                "hashtags": "#Hashtags"
-            },
-            {
-                "fecha": "04-04-2025",
-                "red_social": "YouTube",
-                "clase": "informal",
-                "tema": "Post para YouTube sobre informal",
-                "copy": "Informal contenido sobre informal. clave5 SuscrÃ­bete para mÃ¡s videos",
-                "hashtags": "#Hashtags"
-            },
-            {
-                "fecha": "19-04-2025",
-                "red_social": "YouTube",
-                "clase": "informal",
-                "tema": "Post para YouTube sobre informal",
-                "copy": "Informal contenido sobre informal. clave5 SuscrÃ­bete para mÃ¡s videos",
-                "hashtags": "#Hashtags"
-            },
-            {
-                "fecha": "04-05-2025",
+                "fecha": "11-09-2025",
                 "red_social": "YouTube",
                 "clase": "informal",
                 "tema": "Post para YouTube sobre informal",
